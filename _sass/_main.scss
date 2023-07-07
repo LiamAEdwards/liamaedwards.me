@@ -680,6 +680,7 @@ $link-color: var(--link-color);
   .flag {
     position: relative;
     display: inline;
+    background: rgb(248,248,248);
     padding: 6px 10px;
     border-radius: 5px;
     font-weight: 300;
@@ -732,6 +733,7 @@ $link-color: var(--link-color);
   .time {
     display: inline-block;
     padding: 4px 6px;
+    background: rgb(248,248,248);
   }
 }
 
