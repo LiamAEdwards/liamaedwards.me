@@ -294,7 +294,7 @@ section h1:first-child {
 
 strong,
 b {
-	font-weight: bold;
+	font-weight: lighter;
 }
 
 .photos ul {
@@ -311,7 +311,7 @@ b {
 }
 
 .posts > h3 {
-	font-weight: 500;
+	font-weight: 200;
 }
 
 .post ul {
@@ -337,7 +337,7 @@ b {
 	white-space: nowrap;
 	overflow: hidden;
 	text-overflow: ellipsis;
-	font-weight: bold;
+	font-weight: lighter;
 }
 
 .posts li time,
@@ -524,7 +524,7 @@ color: #333;
       font-size: 17px;
       color: var(--main-text-color);
       margin-bottom: 3px;
-	  font-weight: bold;
+	  font-weight: lighter;
     }
 
     width: 50%;
@@ -685,7 +685,7 @@ $link-color: var(--link-color);
     display: inline;
     padding: 6px 10px;
     border-radius: 5px;
-    font-weight: 600;
+    font-weight: 300;
     text-align: left;
     @media(max-width: 860px) {
       background: rgb(255,255,255);
