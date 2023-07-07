@@ -602,7 +602,6 @@ $link-color: var(--link-color);
       visibility: hidden;
     }
   }
-}
 
 
 .direction-l {
@@ -628,14 +627,12 @@ $link-color: var(--link-color);
       margin-top: -8px;
       }
     }
-  }
   .time-wrapper {
     float: left;
     @media(max-width: 860px) {
       float: none;
     }
   }
-}
 
 
 .direction-r {
